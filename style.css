@@ -1,0 +1,17 @@
+
+body{
+    background-image: url("mustache.png");
+}
+.heading{
+    font-size: 25px;
+    background-color: coral;
+    color:white;
+    font-weight: bold;
+}
+hr{
+    color: black;
+}
+canvas{
+    
+    border:1px solid black;
+  }
